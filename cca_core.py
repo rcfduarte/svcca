@@ -16,7 +16,7 @@
 """
 The core code for applying Canonical Correlation Analysis to deep networks.
 
-This module contains the core functions to apply canonical correlation analysis
+This module contains the core functions to apply canonical correlation profiler
 to deep neural networks. The main function is get_cca_similarity, which takes in
 two sets of activations, typically the neurons in two layers and their outputs
 on all of the datapoints D = [d_1,...,d_m] that have been passed through.
